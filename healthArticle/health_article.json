@@ -61,6 +61,21 @@
           "Lower risk of heart diseases, obesity, and mental health issues.",
           "Improved mood and emotional regulation."
         ]
+      },
+      {
+        "title": "Aprendendo XMLHttpRequest",
+        "description": "Estou explorando, testando e validando a leitura de json.",
+        "ways_to_achieve": [
+          "Establish a consistent sleep schedule, going to bed and waking up at the same time daily.",
+          "Create a relaxing bedtime routine to signal your body that it's time to wind down.",
+          "Limit screen time before bed and create a comfortable sleep environment."
+        ],
+        "benefits": [
+          "Improved cognitive function, concentration, and memory.",
+          "Enhanced immune system and better ability to fight off infections.",
+          "Lower risk of heart diseases, obesity, and mental health issues.",
+          "Improved mood and emotional regulation."
+        ]
       }
     ]
   }
